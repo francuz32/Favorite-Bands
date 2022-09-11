@@ -137,6 +137,11 @@ h2 {
     list-style-type: disc;
     list-style: none;
 }
+.songs li{
+    margin-bottom: 10px;
+    padding: 10px;
+    padding-bottom: 25px;
+}
 .songs li:hover{
     background-color: #7a0606;
 }
